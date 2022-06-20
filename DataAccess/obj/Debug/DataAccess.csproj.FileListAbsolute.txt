@@ -1,0 +1,36 @@
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\thanh\OneDrive\Máy tính\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\thanh\source\repos\Wizard Magazine_v1.6\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
